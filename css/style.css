@@ -9,6 +9,10 @@ html {
     font-family: "Roboto", sans-serif;
 }
 
+body {
+    overflow-x: hidden;
+}
+
 section {
     padding: 6rem 0;
 }
