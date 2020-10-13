@@ -5,9 +5,9 @@ Operator adalah tanda yang digunakan untuk melakukan operasi pada nilai atau var
 **Contoh:**
 
 ```sh
-var x = 4;          // memberikan nilai 4 ke variabel x
-var y = 5;          // memberikan nilai 5 ke variabel y
-var z = x + y;      // hasil penjumlahan dari variabel x dan y 
+var x = 4;                  // memberikan nilai 4 ke variabel x
+var y = 5;                  // memberikan nilai 5 ke variabel y
+var z = x + y;              // hasil penjumlahan dari variabel x dan y 
 ```
 
 ## Jenis-Jenis Operator
@@ -40,9 +40,9 @@ Digunakan untuk melakukan pengerjaan aritmatika pada angka.
 var x = 8;          
 var y = 3;          
 
-var zOne = x - y;      // pengurangan 
-var zTwo = x % y;      // sisa hasil bagi
-var zThree = y++;      // penambahan nilai pada y
+var zOne = x - y;           // pengurangan 
+var zTwo = x % y;           // sisa hasil bagi
+var zThree = y++;           // penambahan nilai pada y
 ```
 
 ## Operator Penugasan (_assignment_)
@@ -64,7 +64,7 @@ Digunakan untuk memberikan nilai pada variabel JavaScript.
 ```sh
 var x = 5;                 
 
-x *= 10;      // x = 5 * 10
+x *= 10;            // x = 5 * 10
 ```
 
 ## Operator pada _String_
@@ -77,7 +77,7 @@ Operator `+` juga bisa digunakan untuk menggabungkan _string_.
 var text1 = "John";                 
 var text2 = "Doe";                 
 
-var text3 = text1 + " " + text2;      // text3 = "John Doe"
+var text3 = text1 + " " + text2;            // text3 = "John Doe"
 ```
 
 Menambahkan angka dan _string_ akan mengembalikan nilai berupa _string_.
@@ -88,7 +88,7 @@ Menambahkan angka dan _string_ akan mengembalikan nilai berupa _string_.
 var number1 = 2020;                 
 var text2 = "Hello";                 
 
-var numberText = "Hello" + number1;      // numberText = "Hello2020"
+var numberText = "Hello" + number1;         // numberText = "Hello2020"
 ```
 
 ## Operator Perbandingan
