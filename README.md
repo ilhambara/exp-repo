@@ -127,3 +127,7 @@ Setiap operan numerik dalam operasi akan diubah menjadi bit. Kemudian hasilnya a
 |     ^     |  XOR  |
 |    <<     |  Left Shift  |
 |    >>     |  Right Shift |
+
+### Referensi
+
+Untuk informasi lebih lengkap dari `operator`, silakan kunjungi [Operators Reference](https://www.w3schools.com/js/js_operators.asp)
