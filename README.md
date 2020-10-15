@@ -7,7 +7,7 @@ Suatu fungsi akan dijalankan ketika ada _sesuatu_ yang memanggilnya.
 **Contoh:**
 
 ```sh
-function myFunction(p1, p2) {
+function myFunction(p1,p2) {
     return p1 * p2;                 
 }
 ```
@@ -25,16 +25,16 @@ Kode yang akan dijalankan berada di dalam _`curly brackets`_: { ... }
 **Contoh:**
 
 ```sh
-function namaFungsi(parameter1, parameter2, parameter3) {
+function namaFungsi(parameter1,parameter2,parameter3) {
 
     // kode yang akan dijalankan
 
 }
 ```
 
-_Parameter_ dicantumkan di dalam tanda kurung ( ).
+`Parameter` dicantumkan di dalam tanda kurung ( ).
 
-_Argument_ adalah nilai yang diterima oleh fungsi saat dipanggil.
+`Argument` adalah nilai yang diterima oleh fungsi saat dipanggil.
 
 ## Pemanggilan Fungsi
 
@@ -55,10 +55,21 @@ Fungsi sering digunakan untuk melakukan penghitungan sebagai nilai kembalian (_r
 **Contoh:**
 
 ```sh
-var x = hitungFungsi(4, 3)              // fungsi dipanggil, x adalah "pemanggil fungsi"
+var x = hitungFungsi(4,3)              // fungsi dipanggil, x adalah "pemanggil fungsi"
 
-function hitungFungsi(a, b) {
+function hitungFungsi(a,b) {
     return a * b                        // fungsi akan "mengembalikan" hasil dari penghitungan
 }
 ```
 
+## Mengapa Menggunakan Fungsi?
+
+Penggunaan fungsi sangat penting pada Javascript, beberapa diantaranya:
+
+- Sekumpulan kode yang **reusable**
+- Dapat **dipanggil berkali-kali** dengan _argument_ yang berbeda
+- Fungsi juga bisa digunakan sebagai **variabel nilai**
+
+## Referensi
+
+Untuk infromasi lebih lengkap dari `Fungsi`, silakan kunjungi [Functions Reference](https://www.w3schools.com/js/js_functions.asp)
