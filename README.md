@@ -1,16 +1,18 @@
-### For testing and applying experimental feature
-
-🤔 This is a
- Feature
- Bug
- Documentation Update
- Translation
-✍ Description
-Write a short description
-Add 2 JS & Frontend Github repositories for learning
-Added to documentation
- readme file
- No documentation needed
-Add contributions to issues #7
-
-🐱‍💻 Use a meme/gif to describe how you feel for contributing (optional)
+> > # 🤔 This is a
+> > 
+> > * [ ]   Feature
+> > * [ ]   Bug
+> > * [x]   Documentation Update
+> > * [ ]   Translation
+> > 
+> > # ✍ Description
+> > 
+> > * Added resources of projects idea for beginner to advance.
+> > 
+> > # Added to documentation
+> > 
+> > * [x]   readme file
+> > * [ ]   No documentation needed
+> > 
+> > # 🐱‍💻 Use a meme/gif to describe how you feel for contributing (optional)
+> > ![super excited](https://media.giphy.com/media/1RihQM96FYhIzRrAOd/giphy.gif)
