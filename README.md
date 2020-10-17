@@ -35,7 +35,4 @@
 
     **Assignees** are the person that's responsile for moving the issue forward. Assignees are selected by the owner of the repository.
 
-    **Tips:**
-    - Read the [Contributing Guidelines](https://github.com/thesauravkarmakar/GitHub101/blob/master/CONTRIBUTING.md) of the repository before start your issue.
-    - We have to follow the instruction about [GitHub Community Guidelines](https://docs.github.com/articles/github-community-guidelines)
     
