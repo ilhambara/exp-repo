@@ -1,8 +1,3 @@
-body {
-    min-height: 100%;
-    background: radial-gradient(ellipse at bottom, #013155 0%, #01162e 100%);
-}
-
 .star {
     position: absolute;
     background: white;
